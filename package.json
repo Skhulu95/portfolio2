@@ -2,7 +2,7 @@
   "name": "portfolio-site",
   "version": "1.0.0",
   "description": "My Personal Portfolio",
-  "main": "index.html",
+  "main": "index.js",
   "homepage": "https://Skhulu95.github.io/portfolio",
   "scripts": {
     "sass": "node-sass -w scss/ -o dist/css/ --recursive",
